@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Real World Compose + Rest</string>
+    <string name="title_auth">Auth</string>
+</resources>
